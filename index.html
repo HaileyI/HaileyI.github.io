@@ -1,4 +1,4 @@
-<html>
+<Doctype! html>
     <head>
         <title>Hailey's Website</title>
     </head>
@@ -43,7 +43,7 @@ li a {
   font size: 30px;
 }
 li a.active {
-  background-color: #ffccff; 
+  background-color: #ff80b3; 
   color: white;
   border-radius: 25px;
   border: 2px solid white;
@@ -56,11 +56,31 @@ li a:hover:not(.active) {
          
     </style>
     <body>
-        <h1>Hailey Irizarry's Website </h1>
-            <h2>Core 2: Interaction Lab </h2>
+        <header>
+            <h1>Hailey Irizarry's Website </h1>
+                <h2>Core 2: Interaction Lab </h2>
+        </header>
+        <main>
             <ul>
-                <li><a class="active" href="#index.html">Home</a>
-                <a href="/assignments.html/index.html">H/W</a></li>
-              </ul>
+                <li>
+                    <details>
+                        <summary>Homework</summary>
+                        <ul>
+                            <li>First</li>
+                            <li>Second</li>
+                            <li>Rhirs</li>
+                        </ul>
+                    </details>
+                </li>
+                <li>
+                    <a class="active" href="#index.html">Home</a>
+                </li>
+                <li>
+                    <a href="/assignments.html/index.html">Homework</a>
+                </li>
+                <li><a href="/assignments.html/semantics/index.html">Semantics</a></li>
+                <li><a href="/assignments.html/semanticsstyles/index.html">Semantics with CSS</a></li>
+            </ul>
+        </main>
     </body>
 </html>
