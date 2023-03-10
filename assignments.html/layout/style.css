@@ -1,0 +1,28 @@
+.background {
+    height: 600px;
+    width: 500px;
+    background-color: gold;
+}
+.yellowrectangle{
+    height: 300px;
+    width: 475px;
+    margin: 10px;
+    background-color: goldenrod; 
+}
+.lightyellow{
+    height:50px;
+    width: 400px;
+    background-color: palegoldenrod;
+}
+.redrectangle{
+    height: 125px;
+    width: 475px;
+    background-color: brown;
+
+}
+.orangerectangle{
+    height:200px;
+    width: 450px;
+    background-color: peru;
+
+}
