@@ -1,28 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: sans-serif;
+    text-decoration-color: gray;
+    font-size: 15px;
+}
+.rothko1{
+}
+
 .background {
-    height: 600px;
-    width: 500px;
+    padding: 200px; 
+    height:200px;
+    width: 100px;
     background-color: gold;
+    border: 10px black;
+    margin: 150px;
+
 }
 .yellowrectangle{
     height: 300px;
     width: 475px;
-    margin: 10px;
+    position: relative;
+    bottom: 740px;
+    left: 163px;
+    border-radius: 10px;
     background-color: goldenrod; 
 }
 .lightyellow{
     height:50px;
-    width: 400px;
+    width: 450px;
+    position: relative;
+    bottom: 1050px;
+    left: 175px;
+    border-radius: 10px;
     background-color: palegoldenrod;
 }
 .redrectangle{
-    height: 125px;
-    width: 475px;
+    height: 80px;
+    width: 485px;
+    position: relative;
+    bottom: 785px;
+    left: 165px;
+    border-radius: 10px;
     background-color: brown;
 
 }
 .orangerectangle{
-    height:200px;
+    height:180px;
     width: 450px;
+    position: relative;
+    bottom: 785px;
+    left: 180px;
+    border-radius: 10px;
     background-color: peru;
 
 }
+
+
+.rothko2{}
+
+    .burgandy{
+        padding: 200px; 
+        height:200px;
+        width: 100px;
+        background-color: maroon;
+        border: 10px black;
+        margin: 150px;
+        position: relative;
+        bottom: 400px;
+
+    }
+
+
+
+
