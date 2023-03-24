@@ -2,10 +2,12 @@
     padding: 0;
     margin: 0;
 }
-body{
+p{
     font-family: sans-serif;
     text-decoration-color: gray;
     font-size: 15px;
+    text-align: center;
+    
     
     
 }
