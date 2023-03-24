@@ -1,5 +1,5 @@
 * {
-    padding: 150px;
+    padding: 0;
     margin: 0;
 }
 body{
@@ -96,6 +96,171 @@ body{
         border-radius: 20px;
         background-color: #3c2c14;
     }
+
+    .scully{
+        margin: 150px;
+        height: 20px;
+        width:50px;
+    }
+    .redunder{
+        margin: 150px;
+        height: 130px;
+        width: 50px;
+        background-color: #ac0f0f;
+        position: relative;
+        bottom: 840px;
+    }
+    #blue1{
+        background-color: #042561;
+        position: relative;
+        bottom: 1000px;
+
+    }
+    #blue2{
+        background-color: #042561;
+        position: relative;
+        bottom: 1200px;
+
+    }
+    #blue3{
+        background-color: #042561;
+        position: relative;
+        bottom: 1400px;
+
+    }
+    #blue4{
+        background-color: #042561;
+        position: relative;
+        bottom: 1600px;
+
+    }
+    #blue5{
+        background-color: #042561;
+        position: relative;
+        bottom: 1800px;
+
+    }
+    .black{
+        margin: 150px;
+        height: 130px;
+        width: 50px;
+        position: relative;
+        bottom: 1970px;
+        left:50px;
+        background-color: black;
+    }
+    #orange1{
+        background-color: #ec7c1a;
+        position: relative;
+        bottom: 2250px;
+        left: 50px;
+    } 
+    #orange2{
+        background-color: #ec7c1a;
+        position: relative;
+        bottom: 2300px;
+        left: 50px;
+    }
+    #orange3{
+        background-color: #ec7c1a;
+        position: relative;
+        bottom: 2500px;
+        left: 50px
+
+    }
+    #orange4{
+        background-color: #ec7c1a;
+        position: relative;
+        bottom: 2700px;
+        left:50px;
+    }
+    #orange5{
+        background-color: #ec7c1a;
+        position: relative;
+        bottom: 2900px;
+        left: 50px;
+
+    }
+    .peach{
+        margin: 150px;
+        height: 130px;
+        width: 50px;
+        position: relative;
+        bottom: 3090px;
+        left:100px;
+        background-color: #eab2a3;
+    }
+    #green1{
+        background-color: #2b9d0e;
+        position: relative;
+        bottom: 3380px;
+        left: 100px;
+    }
+
+    #green2{
+        background-color: #2b9d0e;
+        position: relative;
+        bottom: 3430px;
+        left: 100px;
+    }
+    #green3{
+        background-color: #2b9d0e;
+        position: relative;
+        bottom: 3630px;
+        left: 100px
+    }
+    #green4{
+        background-color: #2b9d0e;
+        position: relative;
+        bottom: 3830px;
+        left:100px;
+    }
+    #green5{
+        background-color: #2b9d0e;
+        position: relative;
+        bottom: 4030px;
+        left: 100px;
+
+    }
+    .navy{
+        margin: 150px;
+        height: 130px;
+        width: 50px;
+        position: relative;
+        bottom: 4230px;
+        left:150px;
+        background-color: #1B0ED4;
+    }
+    #yellow1{
+        background-color: #DEDE29;
+        position: relative;
+        bottom: 4510px;
+        left: 150px;
+    }
+
+    #yellow2{
+        background-color: #DEDE29;
+        position: relative;
+        bottom: 4560px;
+        left: 150px;
+    }
+    #yellow3{
+        background-color: #DEDE29;
+        position: relative;
+        bottom: 4760px;
+        left: 150px
+    }
+    #yellow4{
+        background-color: #DEDE29;
+        position: relative;
+        bottom: 4960px;
+        left:150px;
+    }
+    #yellow5{
+        background-color: #DEDE29;
+        position: relative;
+        bottom: 5160px;
+        left: 150px;
 
 
 
