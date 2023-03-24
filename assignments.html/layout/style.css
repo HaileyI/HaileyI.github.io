@@ -1,11 +1,13 @@
 * {
-    padding: 0;
+    padding: 150px;
     margin: 0;
 }
 body{
     font-family: sans-serif;
     text-decoration-color: gray;
     font-size: 15px;
+    
+    
 }
 .rothko1{
 }
@@ -17,6 +19,7 @@ body{
     background-color: gold;
     border: 10px black;
     margin: 150px;
+    position: relative;
 
 }
 .yellowrectangle{
@@ -63,14 +66,35 @@ body{
 
     .burgandy{
         padding: 200px; 
-        height:200px;
+        height:185px;
         width: 100px;
-        background-color: maroon;
+        background-color: #592626;
         border: 10px black;
         margin: 150px;
         position: relative;
-        bottom: 400px;
+        bottom: 600px;
 
+    }
+    .green{
+        padding:75px;
+        height: 85px;
+        width: 155px;
+        position: relative;
+        bottom: 1200px;
+        left: 250px;
+        border-radius: 20px;
+        background-color: #476259;
+
+    }
+    .brown{
+        padding: 45px;
+        height: 15px;
+        width: 200px;
+        position: relative;
+        bottom: 1175px;
+        left: 250px;
+        border-radius: 20px;
+        background-color: #3c2c14;
     }
 
 
